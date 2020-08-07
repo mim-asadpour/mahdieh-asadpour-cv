@@ -1,37 +1,26 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mim-asadpour/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am mahdieh asadpour,computer engineering student in PNU, photographer,frontend developer
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
+Javascript
 
-- Bulleted
-- List
+HTML
 
-1. Numbered
-2. List
+Photography
 
-**Bold** and _Italic_ and `Code` text
+Digital marketing
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Other Accounts
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mim-asadpour/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ [quera](https://quera.ir/profile/mahtaasadpour99)
+ 
+  [instagram](https://instagram.com/mim_asadpour?igshid=4qducm4rjgq6)
+  
+   [gmail](mahtaasadpour99@gmail.com)
